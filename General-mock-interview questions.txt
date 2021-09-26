@@ -1,0 +1,57 @@
+Q1. What is http?
+
+http which stands for hyper text transfer protocol is an application layer
+ protocol that allows web based applications to communicate and exchange data.
+
+Q2. Is React a library or framework? What is the difference between a 
+    library and framework?
+
+Ans -> React is a library. Framework is something in which we have to write our code
+ and library is something which we can use in our code anywhere as per our 
+requirements.
+
+Q3. What are hooks in react?
+
+ Ans -> Hooks were introduced in React version 16.8. Hooks let us use 
+ state management without converting our functions to a class based component.
+
+Earlier before the hooks were introduced , if we have to use state
+ management in react, we had to use classes as there was no other way
+
+       
+Q4. What is use state hook?
+
+
+Q5. What is imperative and declarative?
+
+imperative -> we have to tell browser how to render HTML
+declarative -> we don't have to tell browser how to render HTML
+
+
+Q6. What is the difference between inline and block level elements
+
+inline 
+padding: all directions
+margin: only left & right directions
+height & width: no effect of applying it.
+
+inline - block: 
+padding: all directions
+margin:all directions
+height & width : can be applied on inline-block.
+
+
+Q7. What is an API?
+
+Ans -> An api is a component which enables communication between two different
+applications
+
+
+Q8. What is DOM?
+
+Ans - >
+
+DOM 
+ - represents the content of html document as tree structure
+ - Can easily read access,update the contents of document
+ - is a programming interface (API).

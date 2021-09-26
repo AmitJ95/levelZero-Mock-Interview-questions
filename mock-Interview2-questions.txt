@@ -1,0 +1,23 @@
+Kanish interviewed Kuldeep
+
+1.Question is write a program with two button pressing one button will increase the number by 2 and another by 4
+
+2. What is Query Selector . Explain it why it use
+
+
+
+Omkar interviewed Nikhil
+
+1.Take an input number from user and check whether it's odd or even and display the result on the web page
+
+2. Differnce between  == and ===
+
+3. Walkthrough to the mark6 and explain fetch
+
+4.Why Script is on the bottom
+
+5. Pull request on Github
+
+6. Why you want to join neogcamp
+
+7. What is hoisting
